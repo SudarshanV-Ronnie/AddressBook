@@ -32,7 +32,7 @@ Running the Program:
 ./abp
 
 Cleaning Build Files:
-To remove object files and executable:
+To remove object files and executable,
 make clean
 
 Learning Outcomes:
